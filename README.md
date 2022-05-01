@@ -1,5 +1,5 @@
 # Kickstarting with Excel
-The file that was used for this analysis project: [Kickstarter_Challenge.xlsx](https://github.com/boggesstristyn/kickstarter-analysis/files/8598198/Kickstarter_Challenge.xlsx)
+The file that was used for this analysis project: [Kickstarter Challenge](https://github.com/boggesstristyn/kickstarter-analysis/files/8598198/Kickstarter_Challenge.xlsx)
 
 ## Overview of Project
 ### Purpose
